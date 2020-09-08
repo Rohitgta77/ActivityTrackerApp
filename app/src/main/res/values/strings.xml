@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Activity Tracker</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="start_workout">Start Workout</string>
+    <string name="workout_name">WorkOut Name</string>
+    <string name="time_sec">Time(Sec)</string>
+    <string-array name="workout_array">
+        <item>Biceps</item>
+        <item>Triceps</item>
+        <item>Squat</item>
+        <item>Chest Press</item>
+        <item>Push Up</item>
+        <item>Chest Fly</item>
+        <item>Pullover</item>
+        <item>Crunch</item>
+        <item>Crossover Row</item>
+        <item>Back Fly</item>
+        <item>Pull-Up</item>
+        <item>Chin-Up</item>
+        <item>Pullover</item>
+    </string-array>
+</resources>
