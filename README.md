@@ -1,5 +1,5 @@
 # ActivityTrackerApp
-A Fitness Android Application mointor or manage your excerise time and schedule.
+A Fitness Android Application monitor or manage your exercises time and schedule
 
 <img src="app/src/main/res/drawable/screenshot1.jpg" width="200"> <img src="app/src/main/res/drawable/screenshot2.jpg" width="200">
 <img src="app/src/main/res/drawable/screenshot3.jpg" width="200"> <img src="app/src/main/res/drawable/screenshot4.jpg" width="200">
